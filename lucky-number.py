@@ -1,4 +1,5 @@
 import random
+import sys
 
 def guess_lucky_number():
     lucky_number = random.randint(1, 100)
